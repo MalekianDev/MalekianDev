@@ -83,7 +83,7 @@ Worked on a quantitative trading platform involving real-time market data, autom
 * Designed systems capable of handling **20M+ requests/day**
 * Optimized latency-sensitive execution paths reaching **10–50ms**
 
-### 🇮🇷 Shatel — Full-Stack Developer
+### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/3ef8fc8b-6bed-453b-b4bf-f11fdfcf23ce" /> Shatel — Full-Stack Developer
 
 **May 2025 – Aug 2025 · Contract**
 
