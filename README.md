@@ -3,8 +3,8 @@
 <h3 align="center">Python Backend Developer · Distributed Systems · Django · PostgreSQL · Redis</h3>
 
 <p align="center">
-  <a href="https://github.com/samanmalekian">
-    <img src="https://komarev.com/ghpvc/?username=samanmalekian&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/MalekianDev">
+    <img src="https://komarev.com/ghpvc/?username=MalekianDev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
@@ -22,7 +22,6 @@ I have **7+ years of experience building software**, with a strong focus on desi
 * 📈 Worked on systems handling **20M+ requests per day**
 * 🚀 Interested in **distributed systems, high-performance backends, fintech, and Web3**
 * 🌍 Open to **remote, hybrid, on-site, and relocation opportunities**
-* 🤝 Interested in collaborating with **international engineering teams**
 * 💬 Ask me about **Python, Django, PostgreSQL, Redis, APIs, backend architecture, and distributed systems**
 
 ---
@@ -30,33 +29,20 @@ I have **7+ years of experience building software**, with a strong focus on desi
 ## 🛠️ Tech Stack
 
 ### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,go" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,go" alt="Backend technologies" /></p>
 
 ### Databases & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb,mysql,sqlite" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb,mysql,sqlite" alt="Database technologies" /></p>
 
 ### Infrastructure & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,gitlab,github,nginx" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=docker,linux,gitlab,github,nginx" alt="Infrastructure technologies" /></p>
 
 ### APIs & Architecture
-
-<p>
-  <img src="https://skillicons.dev/icons?i=graphql" />
-</p>
 
 * REST APIs
 * gRPC
 * Microservices
-* Distributed Systems
+* Distributed systems
 * Event-driven architectures
 * Asynchronous processing
 * Real-time data pipelines
@@ -94,37 +80,26 @@ Worked on a quantitative trading platform involving real-time market data, autom
 * Designed services for **real-time and historical market-data processing**
 * Worked with **Binance WebSocket APIs**
 * Contributed to a hybrid **monolith + microservices architecture**
-* Worked on data ingestion, analysis, and trading workflows
 * Designed systems capable of handling **20M+ requests/day**
 * Optimized latency-sensitive execution paths reaching **10–50ms**
-
----
 
 ### 🇮🇷 Shatel — Full-Stack Developer
 
 **May 2025 – Aug 2025 · Contract**
 
 * Developed backend services using **Go, PostgreSQL, and Django**
-* Optimized a Message Center query bottleneck
 * Reduced a critical query from approximately **3.5 seconds to ≤1ms**
-* Reduced server load from approximately **3–4 to <0.5**
-* Implemented database/indexing optimizations
-* Built a Voucher Management system with Django
-* Developed a Periodical SMS system
+* Implemented database and indexing optimizations
+* Built Voucher Management and Periodical SMS systems
 * Worked with **self-hosted GitLab CI/CD**
-
----
 
 ### 🇦🇪 LogiOwn — Backend Developer
 
 **Jan 2024 – Apr 2025 · Remote**
 
 * Developed logistics and transportation systems using **Django & Django REST Framework**
-* Built and maintained backend APIs
-* Developed automated crawlers and data-processing workflows
-* Worked with **PostgreSQL, Redis, Docker, and Linux**
-* Implemented PDF generation using **WeasyPrint**
-* Integrated monitoring and error tracking using **Sentry**
+* Built backend APIs, automated crawlers, and data-processing workflows
+* Worked with **PostgreSQL, Redis, Docker, Linux, WeasyPrint, and Sentry**
 
 ---
 
@@ -134,18 +109,11 @@ Worked on a quantitative trading platform involving real-time market data, autom
 
 A Telegram-based personal finance assistant powered by AI.
 
-**Stack:**
+**Stack:** `Python` `aiogram` `SQLAlchemy` `PostgreSQL` `Alembic` `Gemini` `Docker`
 
-`Python` `aiogram` `SQLAlchemy` `PostgreSQL` `Alembic` `Gemini` `Docker`
-
-Features include:
-
-* Natural-language expense input
-* AI-powered expense parsing
-* Draft → confirmation workflow
-* Split payments
-* Async PostgreSQL access
-* Clean separation between domain logic, repositories, services, and schemas
+* Natural-language expense input and AI-powered expense parsing
+* Draft → confirmation workflow and split payments
+* Async PostgreSQL access with separated domain, repository, service, and schema layers
 
 ---
 
@@ -153,48 +121,26 @@ Features include:
 
 ### Danoup
 
-I've been involved in mentoring and training students interested in software development.
-
-I have worked with a group of **technical high-school students**, providing training in:
-
-* Backend development
-* Frontend development
-* UI/UX
-* Figma
-* Git & GitHub
-* Scrum
-* Software engineering fundamentals
-
-The program has also evolved into a broader software-development initiative focused on helping people enter the technology industry.
+I've been involved in mentoring technical high-school students in backend development, frontend development, UI/UX, Figma, Git, GitHub, Scrum, and software engineering fundamentals.
 
 ---
 
 ## 🧠 Currently Exploring
 
-```text
-Distributed Systems
-System Design
-High-Performance Backend Architecture
-Real-Time Data Processing
-Quantitative Trading Systems
-Web3 & Blockchain
-Cloud Infrastructure
-Go
-Advanced PostgreSQL
-Event-Driven Architecture
-```
+`Distributed Systems` `System Design` `High-Performance Backend Architecture` `Real-Time Data Processing` `Quantitative Trading Systems` `Web3 & Blockchain` `Cloud Infrastructure` `Go` `Advanced PostgreSQL` `Event-Driven Architecture`
 
 ---
 
 ## 📊 GitHub Stats
 
+<!-- Keep these URLs simple: unsupported/private-only parameters can make the cards return an error. -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MalekianDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=MalekianDev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MalekianDev&show_icons=true&theme=tokyonight&hide_border=true" alt="MalekianDev's GitHub stats" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=MalekianDev&theme=tokyonight&hide_border=true" alt="MalekianDev's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalekianDev&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalekianDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="MalekianDev's most used languages" />
 </p>
 
 ---
@@ -202,7 +148,7 @@ Event-Driven Architecture
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MalekianDev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb" alt="GitHub Activity Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MalekianDev&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb" alt="MalekianDev's GitHub activity graph" />
 </p>
 
 ---
@@ -210,18 +156,12 @@ Event-Driven Architecture
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/MalekianDev">
-    <img src="https://skillicons.dev/icons?i=github" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/saman-malekian">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-  </a>
+  <a href="https://github.com/MalekianDev"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/saman-malekian"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>
 </p>
 
 I'm interested in connecting with **backend developers, founders, engineering teams, and people working on distributed systems, fintech, and emerging technologies.**
 
 ---
 
-<p align="center">
-  <i>Building reliable software, solving real problems, and continuously learning.</i>
-</p>
+<p align="center"><i>Building reliable software, solving real problems, and continuously learning.</i></p>
