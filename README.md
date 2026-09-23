@@ -135,12 +135,12 @@ I've been involved in mentoring technical high-school students in backend develo
 
 <!-- Keep these URLs simple: unsupported/private-only parameters can make the cards return an error. -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MalekianDev&show_icons=true&theme=tokyonight&hide_border=true" alt="MalekianDev's GitHub stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=MalekianDev&show_icons=true&theme=tokyonight&hide_border=true" alt="MalekianDev's GitHub stats" />
   <img height="180" src="https://streak-stats.demolab.com/?user=MalekianDev&theme=tokyonight&hide_border=true" alt="MalekianDev's GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalekianDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="MalekianDev's most used languages" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MalekianDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="MalekianDev's most used languages" />
 </p>
 
 ---
