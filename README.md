@@ -189,12 +189,12 @@ Event-Driven Architecture
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MalekianDev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=MalekianDev&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MalekianDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=MalekianDev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalekianDev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalekianDev&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
 </p>
 
 ---
@@ -202,7 +202,7 @@ Event-Driven Architecture
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MalekianDev&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MalekianDev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb" alt="GitHub Activity Graph" />
 </p>
 
 ---
