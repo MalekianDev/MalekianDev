@@ -158,6 +158,7 @@ I've been involved in mentoring technical high-school students in backend develo
 <p align="left">
   <a href="https://github.com/MalekianDev"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/saman-malekian"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>
+  <a href="https://t.me/MalekianDev"><img src="https://skills-icons.vercel.app/api/icons?i=telegram" width="40" alt="LinkedIn" /></a>
 </p>
 
 I'm interested in connecting with **backend developers, founders, engineering teams, and people working on distributed systems, fintech, and emerging technologies.**
